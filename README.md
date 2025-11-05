@@ -8,4 +8,9 @@ DS.1 is a 750 size carbon-alu RC helicopter and is the first designed in the DS.
 > # Licensing:
 > This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+<br>
 
+## Information/Social:
+- https://www.youtube.com/@apostolosnt
+- https://www.facebook.com/ds.x.rc.heli.project
+- https://grabcad.com/a.t-79
